@@ -1,0 +1,2 @@
+# ReducedFireNet
+code for ReducedFireNet
